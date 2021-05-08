@@ -1,4 +1,4 @@
-# Project Title
+# Fork and make changes
 
 One Paragraph of project description goes here.
 
@@ -30,4 +30,4 @@ python cna_demo.py test.txt
 ```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
+Thank you!!!
