@@ -1,14 +1,22 @@
-# How to download/install Python 3.9.5
+#Steps to Python 7.5
 
 One Paragraph of project description goes here.
 
 ## Getting Started
-*Step 1: go to python website,  https://www.python.org/downloads/
-*Step 2: install Python 3.9.5 
-*Step 3: Run the Python program
+**1.Enter runestone website https://runestone.academy/runestone/books/published/thinkcspy/Selection/OmittingtheelseClauseUnarySelection.html
+**2.Find Python 7.5, Watch the video as it explains "Omitting the *else* Clause: Unary
+**3.Complete the practice task below.
+** Enter:
+x = 10
+if x < 0:
+    print("The negative number ",  x, " is not valid here.")
+print("This is always printed")
+
+**4.The respond should say *"This is always printed"*
+
+
+
 download python installer
-https://www.python.org/downloads/
-### Prerequisites
 
 [Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
 
