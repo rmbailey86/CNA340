@@ -1,4 +1,4 @@
-#Steps to Python 7.5
+#Steps to Python 7.5.py
 
 One Paragraph of project description goes here.
 
