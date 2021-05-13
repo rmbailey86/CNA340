@@ -2,16 +2,14 @@
 # Steps to how python7.5.py works.
 
 One Paragraph of project description goes here.
-Go into Runestone website https://runestone.academy/runestone/books/published/thinkcspy/Selection/OmittingtheelseClauseUnarySelection.html
+
 Follow the steps and play with the numbers, you will notice that it saids" this is always printed." when you run the code.
 If there is an error or an invaild number, it will say " the negative number x = -10 is not vaild here." 
 
 ## Getting Started
+Go into Runestone website https://runestone.academy/runestone/books/published/thinkcspy/Selection/OmittingtheelseClauseUnarySelection.html
 
 These instructions will [do something] on your local machine for [development/experimentation/demo]
-
-
-
 
 
 
